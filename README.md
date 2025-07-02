@@ -1,3 +1,44 @@
+
+# Company Multi-Department Accounting System (Bilingual)
+
+## Introduction
+A lightweight, bilingual (Chinese/English) accounting and analysis system for small companies or teams. Supports multi-department income/expense records, chart analysis, interactive editing, and local data persistence.
+
+## Features
+- 🏢 Multi-department accounting (e.g. Product Design, Digital Traffic, Betting)
+- 📊 Chart analysis (pie, bar, line; fixed color for each department)
+- 📝 Interactive table (inline edit, delete, dropdown & custom category)
+- 🌐 Bilingual UI (Chinese/English switch)
+- 💾 Local data persistence (localStorage)
+- 📱 Responsive design for desktop & mobile
+
+## Tech Stack
+- HTML5 + CSS3 (Tailwind CSS)
+- JavaScript (ES6)
+- [Chart.js 4.x](https://www.chartjs.org/)
+
+## Quick Start
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/Willhan7/accounting-system-bilingual-version.git
+   cd accounting-system-bilingual-version
+   ```
+2. Open `index.html` in your browser. No backend required.
+
+## Language Switch
+- Click the "English/中文" button (top right) to toggle all UI, forms, chart titles, and legends between Chinese and English.
+
+## Screenshot
+> ![screenshot](./screenshot.png)
+
+## Contribution
+Feel free to submit Issues or Pull Requests for improvements, new features, or bug fixes.
+
+## License
+MIT 
+
+---
+
 # 公司级多部门记账分析系统（中英文双语版）
 
 [English version below]
@@ -41,42 +82,3 @@
 ## License
 MIT
 
----
-
-# Company Multi-Department Accounting System (Bilingual)
-
-## Introduction
-A lightweight, bilingual (Chinese/English) accounting and analysis system for small companies or teams. Supports multi-department income/expense records, chart analysis, interactive editing, and local data persistence.
-
-## Features
-- 🏢 Multi-department accounting (e.g. Product Design, Digital Traffic, Betting)
-- 📊 Chart analysis (pie, bar, line; fixed color for each department)
-- 📝 Interactive table (inline edit, delete, dropdown & custom category)
-- 🌐 Bilingual UI (Chinese/English switch)
-- 💾 Local data persistence (localStorage)
-- 📱 Responsive design for desktop & mobile
-
-## Tech Stack
-- HTML5 + CSS3 (Tailwind CSS)
-- JavaScript (ES6)
-- [Chart.js 4.x](https://www.chartjs.org/)
-
-## Quick Start
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Willhan7/accounting-system-bilingual-version.git
-   cd accounting-system-bilingual-version
-   ```
-2. Open `index.html` in your browser. No backend required.
-
-## Language Switch
-- Click the "English/中文" button (top right) to toggle all UI, forms, chart titles, and legends between Chinese and English.
-
-## Screenshot
-> ![screenshot](./screenshot.png)
-
-## Contribution
-Feel free to submit Issues or Pull Requests for improvements, new features, or bug fixes.
-
-## License
-MIT 
